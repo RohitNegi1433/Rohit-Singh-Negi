@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RohitNegi1433
+- 👋 Hi, I’m @Rohit Singh Negi
 - 👀 I’m interested in ...Technology
 - 🌱 I’m currently learning ...Devops
 - 💞️ I’m looking to collaborate on ...
