@@ -3,19 +3,16 @@ I am Rohit, a System Engineer and system admnistartion from 🇮🇳 Govt projec
 
 I mostly work with data centre server , network security,  and Cloud based technologies. 🚀
 
-68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f4b4171357734375239726d547576574f57612f67697068792e676966
 
- 
 docker.gif
   
 cicd.gif
  
-grpc.gif
+
  
 
 DevOps
-do.gif
- aws.gif
+
 
 
   
